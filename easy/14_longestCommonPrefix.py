@@ -12,3 +12,4 @@ class Solution(object):
 str = ["flower", "flow", "fight"]
 result = Solution.longest_common_prefix(str)
 print(result)
+
